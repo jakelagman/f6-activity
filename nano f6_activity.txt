@@ -3,3 +3,4 @@ Version control is important in collaborative projects because it helps teams tr
 git add f6_activity.txt
 git commit -m "Initial commit with explanation"
 Using Git provides major advantages over manual file management because it automatically tracks every change in a structured way. It also makes collaboration easier by allowing multiple people to work on different branches without interfering with each other. Git ensures project safety by enabling easy rollbacks and clear version histories.
+git checkout main git merge feature-update
